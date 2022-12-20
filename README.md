@@ -98,7 +98,7 @@ Email and messages and googlemap api integration has been sucessfully carried ou
 
 ## Acknowledgements
 
-I would like to express my deepest gratitude to my primary supervisor Prof.Mr.Sreeganesh thottempudi (Professor at SRH University of applied sciences) and my secondary supervisor Mr. Adithya Mohan, (Robotic Engineer at Quantum Systems GmBH) who has helped me every step of the way in providing the resources and support needed to implement my learning from Masters degree in Big data and artificial Intelligence, which allowed me to successful complete my Dissertation. In addition, I would like to thank, the administration, examination board and other faculty of the university who has answered to my queries with dedication and patience. Lastly, this endeavor would'nt have been possible without the support of my parents and siblings who have always motivated me to acheive my goals. 
+I would like to express my deepest gratitude to my primary supervisor Prof.Mr.Sreeganesh thottempudi (Professor at SRH University of applied sciences) and my secondary supervisor Mr. Adithya Mohan, (Robotic Engineer at Quantum Systems GmBH) who has helped me every step of the way in providing the resources and support needed to implement my learnings from Masters degree in Big data and artificial Intelligence, which allowed me to successful complete my Dissertation. In addition, I would like to thank, the administration, examination board and other faculty of the university who has answered to my queries with dedication and patience. Lastly, this endeavor would'nt have been possible without the support of my parents and siblings who have always motivated me to acheive my goals. 
 
 ## Author
 
