@@ -18,7 +18,7 @@ This project focuses on the following:
 
 ## Dataset
 
-The goal is to not find bigger data but to find the right data for desired analytics. The borewell dataset from [Kaggle] (https://www.kaggle.com/datasets/saktheeswaranswan/borewell-dataset-416-resize-tensorflow-yolo-voc?select=borewell+dataset) contains real-time borewell images annotated using roboflow.ai, an open-source annotation tool used to label data in categories as, “completely safe borewells”, “open borewells”, “unsafe borewells”. It is recommended to use COCO Data format with input image size as 416x416
+The goal is to not find bigger data but to find the right data for desired analytics. The borewell dataset from [Kaggle](https://www.kaggle.com/datasets/saktheeswaranswan/borewell-dataset-416-resize-tensorflow-yolo-voc?select=borewell+dataset) contains real-time borewell images annotated using roboflow.ai, an open-source annotation tool used to label data in categories as, “completely safe borewells”, “open borewells”, “unsafe borewells”. It is recommended to use COCO Data format with input image size as 416x416
 
 
 ## Documentation
