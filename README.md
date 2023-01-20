@@ -14,7 +14,8 @@ This project focuses on the following:
 1. Train one stage detector models to detect and classify borewells and evaluate the performance ratio. 
 2. Integration of maps using GoogleMaps API. 
 3. Set up email alert system using Zoho mails API. 
-4. Set up whatsapp alert system using Twilio API. 
+4. Set up whatsapp alert system using Twilio API.
+5. Aerial Image mapping using GAN 
 
 ## Dataset
 
