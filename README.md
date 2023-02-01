@@ -12,13 +12,13 @@ The Rowell  Robot is autonomous and Data-driven. The volatile nature of the envi
 ## Focus
 
 1. G-Chart for Borewell Accidents
-2. Borewell Detection and Classification using state-of-art algorithms. 
-3. GAN based Simontaneous Localization and Mapping
-4. Robotic Navigation 
+2. Borewell Detection and Classification using state-of-art algorithms.
+3. GAN based Simultaneous Localisation and Mapping.
+4. Robotic Navigation.
 
 Note: Please know that this repo is currently under progress, follow to know all updates and also refer to blogs here: 
 
-[G-Chart for Borewell Accidents]()
+[G-Chart for Borewell Accidents](https://medium.com/@sirishapadmasekhar/g-charts-for-borewell-accidents-using-python-5935d209d85a)
 
 ## Author
 
