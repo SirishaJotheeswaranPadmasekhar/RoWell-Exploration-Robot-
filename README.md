@@ -1,5 +1,5 @@
 
-# The RoWell Rescue Robot for Borewell Hazards
+# The RoWell Robot for Borewell Hazards
 #### A project by Sirisha Jotheeswaran Padmasekhar 
 
 ## Project Description 
