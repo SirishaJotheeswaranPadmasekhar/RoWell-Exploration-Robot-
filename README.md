@@ -9,13 +9,16 @@ The portmanteau word "RoWell" derived from Robot-Borewell drives way to inculcat
 
 The Rowell  Robot is autonomous and Data-driven. The volatile nature of the environment has raised concerns for its tediousness and lowered precision. The one stage object detection method(s) are used to overcome these restrictions since they employ a single neural network for both detection and classification which is faster and significantly accurate compared to traditional two-way object detection methods.The requirement matrix (reference/requirement matrix.jpg) allows us to evaluate one stage detector algorithms with our metrics. On evaluation Yolov3, yolov5, yolov7, efficientDet and ResNet is the best algorithms for performance evaluation. The algorithms  are comparatively been able to perform the tasks with accuracy and precision, and is cost effective, utilizes wide angle vision to detect small objects and can detect borewells in real-time which allows us to deploy our project with utmost efficiency. 
 
-This project focuses on the following:
+## Focus
 
-1. Train one stage detector models to detect and classify borewells and evaluate the performance ratio. 
-2. Integration of maps using GoogleMaps API. 
-3. Set up email alert system using Zoho mails API. 
-4. Set up whatsapp alert system using Twilio API.
-5. Aerial Image mapping using GAN 
+1. G-Chart for Borewell Accidents
+2. Borewell Detection and Classification using state-of-art algorithms. 
+3. GAN based Simontaneous Localization and Mapping
+4. Robotic Navigation 
+
+Note: Please know that this repo is currently under progress, follow to know all updates and also refer to blogs here: 
+
+[G-Chart for Borewell Accidents]()
 
 ## Author
 
