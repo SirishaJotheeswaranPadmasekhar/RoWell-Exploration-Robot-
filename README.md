@@ -19,7 +19,7 @@ This project is in the development phase, therefore, I would request for your pa
 
 For up-to-date information, follow me on GitHub and blog posts: 
 
-Topic 1 : [G-Chart for Borewell Accidents](https://medium.com/@sirishapadmasekhar/g-charts-for-borewell-accidents-using-python-5935d209d85a)
+Topic: [G-Chart for Borewell Accidents](https://medium.com/@sirishapadmasekhar/g-charts-for-borewell-accidents-using-python-5935d209d85a)
 
 ## Author
 
