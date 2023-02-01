@@ -23,6 +23,6 @@ Topic: [G-Charts for Borewell Accidents Using Python](https://medium.com/@sirish
 
 ## Author
 
-- [@SirishaJotheeswaranPadmasekhar](https://github.com/SirishaJotheeswaranPadmasekhar)
+- [@SirishaJotheeswaranPadmasekhar](https://github.com/SirishaJP)
 
 
