@@ -1,25 +1,76 @@
+# Rowell Robot: Borewell Detection and Safety Alert System
 
-# The RoWell Robot 
+## Project Overview
 
-## Project Description 
-Borewell has been our major source of water since the time of 1990s. We as humans has evolved to find solutions to make use of resources the earth is willing to provide us or maybe even more at sometimes. But are we stuck in a cycle of finding solutions that then become the source of new problems? This project focuses on being an advocate to address the major social-issue that has raised in parts of the world. 
+The Rowell Robot is a sophisticated software-based system designed to detect and classify borewells—whether they are closed, unsafe, or open. By leveraging advanced deep learning algorithms, this system can effectively identify potential hazards and send SOS alerts to safety inspectors. This proactive approach is crucial for preventing accidents related to borewells, especially in areas where they are prevalent and can pose significant risks.
 
-The portmanteau word "RoWell" derived from Robot-Borewell drives way to inculcate robot vision processing and integrate robotic learning to borewell systems. Due to negligence and ignorance, people forget to cover the boreholes after draining underground water and pulling out the pipes. The lack of knowledge remains as the root cause of the problem. The recent statistics states that there are over 37 Million borewells in India and almost 70% of rescue operate fail. The death rate from 2015 to 2021 has accelerated. The objective of the research is to bridge the technological gap by adapting to Deep Learning Based Approach for the Rowell robot to explore any given environment, detect and classify high risk, low risk and safe borewells in real-time and alert the government officials to inspect and raise awareness to people in the community of high and low risk locations. Furthermore, integrating to Maps platforms allows us to locate borewells  in real-time. The current work focuses solely on the quote, "Prevention is better than cure".  
+## How the System Empowers Safety Operations
+For inaccessible environments, detecting borewells and ensuring safety can be particularly challenging. The Rowell Robot addresses these challenges through:
 
-The Rowell  Robot is autonomous and Data-driven. The volatile nature of the environment has raised concerns for its tediousness and lowered precision. The one stage object detection method(s) are used to overcome these restrictions since they employ a single neural network for both detection and classification which is faster and significantly accurate compared to traditional two-way object detection methods.The requirement matrix (reference/requirement matrix.jpg) allows us to evaluate one stage detector algorithms with our metrics. On evaluation Yolov3, yolov5, yolov7, efficientDet and ResNet is the best algorithms for performance evaluation. The algorithms  are comparatively been able to perform the tasks with accuracy and precision, and is cost effective, utilizes wide angle vision to detect small objects and can detect borewells in real-time which allows us to deploy our project with utmost efficiency. 
+- Real-Time Detection: The system uses deep learning algorithms to analyze and identify borewells from visual data, ensuring timely detection of potential hazards.
 
-## Focus
+- Accurate Classification: The Rowell Robot differentiates between closed, unsafe, and open borewells with high precision, providing clear information for appropriate action.
 
-1. G-Chart for Borewell Accidents
-2. Borewell Detection and Classification using state-of-art algorithms.
-3. GAN based Simultaneous Localisation and Mapping.
-4. Robotic Navigation.
+- Immediate SOS Alerts: The system sends an SOS message to safety inspectors when an unsafe or open borewell is detected. This rapid response capability enables quick preventive measures, potentially saving lives.
 
-This project is in the development phase, therefore, I would request for your patience and understanding. 
+## Software-Based Detection of Small Objects
 
-For up-to-date information, follow me on GitHub and blog posts: 
+Without the need for specific hardware, the Rowell Robot relies on sophisticated software algorithms to detect small objects, such as borewells, through wide-angle vision simulation. This is achieved by:
 
-Topic: [G-Charts for Borewell Accidents Using Python](https://medium.com/@sirishapadmasekhar/g-charts-for-borewell-accidents-using-python-5935d209d85a)
+- Deep Learning Algorithms: The system evaluates various deep learning models for their ability to detect and classify small objects. These models are compared based on their accuracy, precision, and computational efficiency.
+
+# Evaluated Algorithms
+
+The following deep learning algorithms were tested for their performance in detecting small borewells:
+
+- YOLOv3: Known for its balance between speed and accuracy, YOLOv3 performs well in detecting objects in real-time but may have limitations in precision for very small objects.
+
+- YOLOv5: An improvement over YOLOv3, YOLOv5 offers better accuracy and faster processing times, making it suitable for real-time applications where precise detection of small objects is critical.
+
+- YOLOv7: This model excels in detecting smaller and partially obscured objects due to its advanced architecture, which enhances both detection precision and reliability.
+
+- EfficientDet: Balances accuracy and computational efficiency, though it may require more resources than YOLO models. It performs well in environments where efficiency is a priority.
+
+- ResNet: Provides robust feature extraction capabilities, enhancing the model's ability to classify small objects accurately, but may be less efficient for real-time processing due to its computational demands.
+
+## Optimal Model Selection
+After thorough evaluation, the selected deep learning model is chosen for its ability to accurately and efficiently detect small borewells from wide-angle images, ensuring optimal performance without requiring specialized hardware.
+
+## Installation and Setup
+
+- Python 3.8 or above
+- CUDA-compatible GPU (optional, for accelerated processing)
+- Virtual environment (recommended)
+
+## Clone the Repository
+
+git clone https://github.com/yourusername/rowell-robot.git
+cd rowell-robot
+
+Create and Activate Virtual Environment
+
+python -m venv venv
+source venv/bin/activate
+
+Install Dependencies
+
+pip install -r requirements.txt
+
+Download Pre-trained Models
+Download the pre-trained models (YOLOv5, YOLOv7, etc.) and place them in the /models/ directory.
+
+Usage
+Running the Rowell Robot System
+
+python main.py
+
+This command will start the system, allowing it to analyze visual data and detect borewells in real-time, sending alerts as necessary.
+
+
+
+
+
+
 
 
 
