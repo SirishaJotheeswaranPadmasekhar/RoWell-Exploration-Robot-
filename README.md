@@ -21,8 +21,6 @@ For up-to-date information, follow me on GitHub and blog posts:
 
 Topic: [G-Charts for Borewell Accidents Using Python](https://medium.com/@sirishapadmasekhar/g-charts-for-borewell-accidents-using-python-5935d209d85a)
 
-## Author
 
-- [@SirishaJotheeswaranPadmasekhar](https://github.com/SirishaJP)
 
 
