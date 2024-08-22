@@ -68,9 +68,9 @@ This command will start the system, allowing it to analyze visual data and detec
 
 
 
+# Output Demo 
 
-
-
+[Dection Demo of borewells - open, closed, unsafe]()
 
 
 
